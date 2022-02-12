@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import React from 'react';
 import content from "./static";
 import InputAndLabel from "./components/InputAndLabel";
 // Хук для состояния формы
